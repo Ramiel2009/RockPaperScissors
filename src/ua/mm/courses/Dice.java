@@ -2,9 +2,6 @@ package ua.mm.courses;
 
 import java.util.Random;
 
-/**
- * Created by Maxim on 9/6/15.
- */
 public class Dice extends Thread {
     public static int roll(){
         Random dice = new Random();
